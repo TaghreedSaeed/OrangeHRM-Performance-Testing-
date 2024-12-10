@@ -24,5 +24,7 @@ This file contains employee details to be used for the "Add Employee" and "Save 
 
 # File Structure
 Test Plan_MTask.jmx: The main test plan file.
+
 data.csv: Test data for adding employee details.
+
 /reports/: Directory to store generated reports (if applicable).
